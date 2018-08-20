@@ -1,0 +1,6 @@
+framework module Rango {
+  umbrella header "Rango.h"
+
+  export *
+  module * { export * }
+}
