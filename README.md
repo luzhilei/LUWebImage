@@ -25,5 +25,5 @@
      2，通过 boundingRectWithSize 计算高度
      3，通过 textView 添加 NSLinkAttributeName 添加跳转
      
-      ![image](https://github.com/luzhilei/LuWaveView/blob/master/LuWaveView/Assets.xcassets/wave.imageset/wave.png)
 
+![image](https://github.com/luzhilei/LUWebImage/blob/master/LUWebImage/Assets.xcassets/2.imageset/1.png)
